@@ -1,10 +1,6 @@
-I created this file to test the GitHub Desktop app.
+I created this file to test different types of text in GitHub.
 
 I'm going to add a lot of text to this file to see how it looks.
-
-I'm going to add a lot of text to this file to see how it looks.
-I am going to add a lot of text to this file to see how it looks.
-I am going to add a lot of text to this file to see how it looks.
 
 Next I will write here something different.
 let it be a test.
@@ -22,8 +18,17 @@ let it be a test.
 
 ####### I am a subsubsubsubsubsubtitle # that wont work
 
-Now I will add a lot of text to this file to see how it looks.
-I am going to add a lot of text to this file to see how it looks.
-I am going to add a lot of text to this file to see how it looks.
+Many types of text are supported in github:
 
-Now I have a lot of text to written here.
+- **bold**
+- *italic*
+- ~~strikethrough~~
+- `code`
+- [link](https://github.com)
+- ![image](https://github.com/images/icons/emoji/octocat.png)
+- ```
+  code block
+  ```
+- ````python
+  print("Hello World")
+  ````
