@@ -53,6 +53,7 @@ And tables:
 `| -------- | -------- | -------- |`
 `| Cell 1   | Cell 2   | Cell 3   |`
 `| Cell 4   | Cell 5   | Cell 6   |`
+
 And emojis:
 :smiley: - `:smiley:`
 
